@@ -1,7 +1,9 @@
 # djangotrials
 
 Its my first projects while practicing django
-
+_______________________________________________________________________________________________________________________________
+Languages Used : Python , HTML, CSS
+_______________________________________________________________________________________________________________________________
 
 Consists of sample website
 "While using this django projects please be sure that the following items must be installed":
