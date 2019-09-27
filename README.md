@@ -1,8 +1,9 @@
-# djangotrials
+#Blog_Web Application
 
 Its my first projects while practicing django
 _______________________________________________________________________________________________________________________________
 Languages Used : Python , HTML, CSS
+Framework : Django
 _______________________________________________________________________________________________________________________________
 
 Consists of sample website
